@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyApplicationQnA</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="image_content_description">Cl</string>
+    <string-array name="gender_options">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+</resources>
